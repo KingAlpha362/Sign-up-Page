@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.sign-up-form {
+    width: 300px;
+    box-sizing: border-box;
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.sign-up-form h1 {
+    color: #1c8abd;
+    margin-bottom: 30px;
+}
+
+.input-box {
+    border-radius: 30px; 
+    padding: 10px;
+    margin: 10px auto; 
+    width: 80%; 
+    border: 1px solid #999;
+    outline: none;
+}
+
+button {
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.sign-btn {
+    background-color: blue;
+}
+
+.Instagram-btn {
+    background-color: #e1306c;
+}
+
+a {
+    text-decoration: none;
+}
+
+hr {
+    margin-top: 20px;
+    width: 80%;
+}
+
+.or {
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+
+img {
+    width: 200px;
+    margin-top: -120px; 
+}
